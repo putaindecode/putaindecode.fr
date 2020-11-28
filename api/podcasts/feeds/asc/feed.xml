@@ -2,9 +2,9 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title><![CDATA[Putain de Code!]]></title>
-    <description><![CDATA[Blog participatif de la communautÃ© dev]]></description>
+    <description><![CDATA[Blog participatif de la communauté dev]]></description>
     <link>https://putaindecode.io</link>
-    <lastBuildDate>Sat, 28 Nov 2020 16:46:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2020 16:54:01 GMT</lastBuildDate>
     <atom:link href="https:/putaindecode.io/api/podcasts/feeds/asc/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title><![CDATA[S01E01 En beta, embêtant]]></title>
