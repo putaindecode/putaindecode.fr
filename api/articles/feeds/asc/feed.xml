@@ -4,7 +4,7 @@
     <title><![CDATA[Putain de Code!]]></title>
     <description><![CDATA[Blog participatif de la communauté dev]]></description>
     <link>https://putaindecode.io</link>
-    <lastBuildDate>Sun, 07 Feb 2021 18:41:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Feb 2021 00:15:39 GMT</lastBuildDate>
     <atom:link href="https://putaindecode.io/api/articles/feeds/asc/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title><![CDATA[Versionner avec Git]]></title>
@@ -797,6 +797,12 @@
       <link>https://putaindecode.io/articles/2021-01-29-ecrivez-du-code-stupide</link>
       <guid isPermaLink="false">2021-01-29-ecrivez-du-code-stupide</guid>
       <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
+   </item>
+    <item>
+      <title><![CDATA[Retour sur plusieurs années de CSS-in-JS]]></title>
+      <link>https://putaindecode.io/articles/retour-sur-plusieurs-annees-de-css-in-js</link>
+      <guid isPermaLink="false">retour-sur-plusieurs-annees-de-css-in-js</guid>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 GMT</pubDate>
    </item>
   </channel>
 </rss>
