@@ -4,7 +4,7 @@
     <title><![CDATA[Putain de Code!]]></title>
     <description><![CDATA[Blog participatif de la communauté dev]]></description>
     <link>https://putaindecode.io</link>
-    <lastBuildDate>Sun, 14 Feb 2021 18:53:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Feb 2021 00:16:09 GMT</lastBuildDate>
     <atom:link href="https://putaindecode.io/api/articles/feeds/asc/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title><![CDATA[Versionner avec Git]]></title>
@@ -803,6 +803,12 @@
       <link>https://putaindecode.io/articles/retour-sur-plusieurs-annees-de-css-in-js</link>
       <guid isPermaLink="false">retour-sur-plusieurs-annees-de-css-in-js</guid>
       <pubDate>Mon, 08 Feb 2021 00:00:00 GMT</pubDate>
+   </item>
+    <item>
+      <title><![CDATA[Le vrai problème des Web Components]]></title>
+      <link>https://putaindecode.io/articles/le-vrai-probleme-des-web-components</link>
+      <guid isPermaLink="false">le-vrai-probleme-des-web-components</guid>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 GMT</pubDate>
    </item>
   </channel>
 </rss>
