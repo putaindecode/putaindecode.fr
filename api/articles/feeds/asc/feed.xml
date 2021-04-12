@@ -4,7 +4,7 @@
     <title><![CDATA[Putain de Code!]]></title>
     <description><![CDATA[Blog participatif de la communauté dev]]></description>
     <link>https://putaindecode.io</link>
-    <lastBuildDate>Mon, 12 Apr 2021 00:38:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Apr 2021 12:46:19 GMT</lastBuildDate>
     <atom:link href="https://putaindecode.io/api/articles/feeds/asc/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title><![CDATA[Versionner avec Git]]></title>
@@ -809,6 +809,12 @@
       <link>https://putaindecode.io/articles/le-vrai-probleme-des-web-components</link>
       <guid isPermaLink="false">le-vrai-probleme-des-web-components</guid>
       <pubDate>Mon, 15 Feb 2021 00:00:00 GMT</pubDate>
+   </item>
+    <item>
+      <title><![CDATA[Le web mérite de meilleures primitives]]></title>
+      <link>https://putaindecode.io/articles/le-web-merite-de-meilleures-primitives</link>
+      <guid isPermaLink="false">le-web-merite-de-meilleures-primitives</guid>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 GMT</pubDate>
    </item>
   </channel>
 </rss>
